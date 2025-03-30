@@ -15,4 +15,10 @@ public class KafkaTopicConfig {
 //                .replicas(1)
                 .build();
     }
+
+    @Bean
+    public NewTopic jsonTopic() {
+        return TopicBuilder.name("topic2")
+                .build();
+    }
 }
