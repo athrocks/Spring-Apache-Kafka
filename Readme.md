@@ -106,4 +106,4 @@ public class User {
 
 ## License
 
-This project is open-source and available under the [MIT License](https://chatgpt.com/c/LICENSE).
+This project is open-source and available under the MIT License.
